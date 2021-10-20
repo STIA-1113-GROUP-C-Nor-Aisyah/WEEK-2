@@ -1,0 +1,24 @@
+package oneDayCampusLife;
+
+public class CampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("6.00 am: wake up and take a shower");
+		System.out.println("6.30 am: pray Subuh");
+		System.out.println("7.00 am: breakfast");
+		System.out.println("7.30 am: read a book ");
+		System.out.println("8.30 am: playing games and watching television");
+		System.out.println("10.30 am: programming work");
+		System.out.println("1:30 pm: pray Zohor and lunch");
+		System.out.println("2.00 pm: take a nap");
+		System.out.println("4.30 pm: pray Asar");
+		System.out.println("6.00 pm: exercise");
+		System.out.println("7.30 pm: pray Maghrib");
+		System.out.println("8.30 pm: pray Isya'");
+		System.out.println("9.00 pm: study programming");
+		System.out.println("10.00 pm: sleep");
+
+	}
+
+}
